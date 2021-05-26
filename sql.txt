@@ -1,8 +1,0 @@
-CREATE TABLE `project3lm`.`users` (
-  `id` INT NOT NULL AUTO_INCREMENT,
-  `nome` VARCHAR(45) NULL,
-  `sobrenome` VARCHAR(45) NULL,
-  `salario` VARCHAR(45) NULL,
-  `data_nascimento` VARCHAR(45) NULL,
-  `cargo` VARCHAR(45) NULL,
-  PRIMARY KEY (`id`));
